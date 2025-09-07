@@ -11,4 +11,4 @@ Please run git status and git diff to understand the current changes, then:
 3. Use only "Generated with Claude" as the attribution text - no other attribution text or links
 4. Create descriptive commit messages that explain what was changed and why
 
-If provided arguments, use them as the commit message: $ARGUMENTS
+Arguments: $ARGUMENTS
